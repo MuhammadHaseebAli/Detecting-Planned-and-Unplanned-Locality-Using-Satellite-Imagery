@@ -3,6 +3,9 @@ In under developed countries like Africa and Asia, unplanned settlements like sl
  Effective management, improvements and reconstruction of these unplanned settlement become important policy in big city. So for urban reconstruction identification and characterization of these areas is very crucial for reconstructing those areas. As these areas are widely spread so field surveys are very time consuming and costly so we want to use remote sensing techniques for the segmentation of these areas. 
  
 ## Comparison of different results
+
+![Capture111](https://user-images.githubusercontent.com/19229312/86625201-23a6cb80-bfde-11ea-9b2b-a5ee48736ab2.PNG)
+
 	                              Avg.Precision	Avg.Recall	Avg. F1-Score
 With Cross Entropy	            0.78	        0.77	      0.78
 With Focal Loss	                0.77	        0.71	      0.74
