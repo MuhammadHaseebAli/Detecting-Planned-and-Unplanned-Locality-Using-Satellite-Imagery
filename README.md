@@ -37,5 +37,8 @@ In under developed countries like Africa and Asia, unplanned settlements like sl
 ![Large Buildings (1)](https://user-images.githubusercontent.com/19229312/86625552-ab8cd580-bfde-11ea-96da-92349dbe703a.png)
 
 
-##Location Comaprison
-####We Tried Our Model on Two Different Locations Model Town and Raiwind Road
+## Location Comaprison
+#### We Tried Our Model on Two Different Locations Model Town and Raiwind Road
+
+[Riwind Road.pdf](https://github.com/MuhammadHaseebAli/Detecting-Planned-and-Unplanned-Locality-Using-Satellite-Imagery/files/4880591/Riwind.Road.pdf)
+
