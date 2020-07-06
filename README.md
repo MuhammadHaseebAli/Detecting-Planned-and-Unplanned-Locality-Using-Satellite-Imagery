@@ -35,3 +35,7 @@ In under developed countries like Africa and Asia, unplanned settlements like sl
 ![High Building Density (_80%) (2)](https://user-images.githubusercontent.com/19229312/86625548-aa5ba880-bfde-11ea-8916-9e56bdb79803.png)
 ![Irregular Layout (1)](https://user-images.githubusercontent.com/19229312/86625551-aaf43f00-bfde-11ea-8140-b28bcf4754ed.png)
 ![Large Buildings (1)](https://user-images.githubusercontent.com/19229312/86625552-ab8cd580-bfde-11ea-96da-92349dbe703a.png)
+
+
+##Location Comaprison
+####We Tried Our Model on Two Different Locations Model Town and Raiwind Road
