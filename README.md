@@ -4,11 +4,11 @@ In under developed countries like Africa and Asia, unplanned settlements like sl
 
 ## Archhitecture used
 
-<img src="https://user-images.githubusercontent.com/19229312/87012767-1ad31700-c1e3-11ea-8825-3277b44bb54a.png" width="2000" />
+<img src="https://user-images.githubusercontent.com/19229312/87012767-1ad31700-c1e3-11ea-8825-3277b44bb54a.png" width="2000px" />
 
 ## Comparison of different results
 
-![Capture111](https://user-images.githubusercontent.com/19229312/86625201-23a6cb80-bfde-11ea-9b2b-a5ee48736ab2.PNG =50x50)
+![Capture111](https://user-images.githubusercontent.com/19229312/86625201-23a6cb80-bfde-11ea-9b2b-a5ee48736ab2.PNG)
 
 ## confusion Metrices 
 
